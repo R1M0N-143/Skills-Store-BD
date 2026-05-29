@@ -1,0 +1,6 @@
+{
+  "name": "SkillsStoreBD",
+  "description": "An AI Social Media Manager for Bangladeshi e-commerce automating Messenger, WhatsApp, and Instagram in authentic Bangla with integrated order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
